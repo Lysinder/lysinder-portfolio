@@ -1,0 +1,11 @@
+# Dependencies, environment files and build output
+node_modules/
+.env
+.env.*
+dist/
+build/
+out/
+.vercel
+
+# Private: this resume still lists references' contact details, so it stays off GitHub and the live site
+assets/Lysinder-Bariquit-Resume.pdf

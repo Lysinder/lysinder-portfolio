@@ -1,0 +1,6 @@
+# Never upload these when deploying from this computer
+.git
+.env
+.env.*
+node_modules
+assets/Lysinder-Bariquit-Resume.pdf
